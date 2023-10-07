@@ -6,7 +6,7 @@ and I have a lot of experience in IT support.
 
 I’m currently working on Real State Business but looking forward to become a Full Stack Developer.
 
-I’m currently studyding in a bootcamp at <a href="https://www.4geeksacademy.com">@4geeksacademy</a> and learning...
+I’m currently studying in a bootcamp at <a href="https://www.4geeksacademy.com">@4geeksacademy</a> and learning...
 
 <div align="center">
 <img src="/img/HTML5.png" 
