@@ -26,7 +26,7 @@ height="50"
   alt="python-logo"> 
 </div>
 <br>
-- 📫 How to reach me: danielperezarenas@gmail.com or <a href="https://www.linkedin.com/in/daniel-p%C3%A9rez-arenas-986a387a/">LinkedIn</a>
+- 📫 How to reach me: <a href="mailto:danielperezarenas@gmail.com">danielperezarenas@gmail.com</a> or <a href="https://www.linkedin.com/in/daniel-p%C3%A9rez-arenas-986a387a/">LinkedIn</a>
 
 
 If you want, you can catch me on my instagram <a href="https://www.instagram.com/danierrr/">@danierrr</a>
