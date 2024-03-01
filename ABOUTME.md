@@ -35,7 +35,7 @@ height="50"
 - 📫 How to reach me: <a href="mailto:danielperezarenas@gmail.com">danielperezarenas@gmail.com</a> or <a href="https://www.linkedin.com/in/danielperezarenas/">LinkedIn</a>
 <br>
 
-
+<br>
 >  
 > "Solo sé que no sé nada" Socrates.
 >  
