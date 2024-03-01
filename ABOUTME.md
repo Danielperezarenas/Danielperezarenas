@@ -4,7 +4,7 @@
 I graduated from the university with a Higher University Technician degree in Computer Science 
 and I have a lot of experience in IT support.
 
-I’m currently working on Real State Business but looking forward to become a Full Stack Developer.
+IFull Stack Developer.
 
 I’m currently studying in a bootcamp at <a href="https://www.4geeksacademy.com">@4geeksacademy</a> and learning...
 
