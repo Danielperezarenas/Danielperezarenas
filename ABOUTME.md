@@ -24,7 +24,7 @@ height="50"
 <img src="img/python.png" 
   height="50" 
   alt="python-logo"> 
-<img src="img/React Native.png" 
+<img src="img/react-native.png" 
   height="50" 
   alt="RN-logo"> 
 <img src="img/SQL.png" 
@@ -34,10 +34,7 @@ height="50"
 <br>
 - 📫 How to reach me: <a href="mailto:danielperezarenas@gmail.com">danielperezarenas@gmail.com</a> or <a href="https://www.linkedin.com/in/danielperezarenas/">LinkedIn</a>
 <br>
-<!---
-If you want, you can catch me on my instagram <a href="https://www.instagram.com/danierrr/">@danierrr</a>
---->
-<br>
+
 
 >  
 > "Solo sé que no sé nada" Socrates.
