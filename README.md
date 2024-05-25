@@ -1,12 +1,10 @@
 <h3 align="center">Hi there 👋 I'm Daniel Pérez Arenas </h3> 
 
 
-I graduated from the university with a Higher University Technician degree in Computer Science 
-and I have a lot of experience in IT support.
+I graduated from the university with a Higher University Technician degree in Computer Science, with experience in IT support.
 
 I'm a Full Stack Developer formed at <a href="https://www.4geeksacademy.com">@4geeksacademy</a>.
 
-I’m always learning...
 
 <div align="center">
 <img src="/img/HTML5.png" 
